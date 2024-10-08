@@ -3,5 +3,12 @@
         "disjfa/menu-bundle": [
             "0.5"
         ]
+    },
+    "branch": "main",
+    "is_contrib": true,
+    "_links": {
+        "repository": "github.com/disjfa/symfony-recipes",
+        "origin_template": "{package}:{version}@github.com/disjfa/symfony-recipes:main",
+        "recipe_template": "https://api.github.com/repos/disjfa/symfony-recipes/contents/{package_dotted}.{version}.json"
     }
 }
