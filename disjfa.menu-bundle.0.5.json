@@ -6,6 +6,19 @@
                     "Disjfa\\MenuBundle\\DisjfaMenuBundle": [
                         "all"
                     ]
+                },
+                "copy-from-recipe": {
+                    "config/": "%CONFIG_DIR%"
+                }
+            },
+            "files": {
+                "config/packages/disjfa_menu.yaml": {
+                    "contents": [
+                        "disjfa_menu:",
+                        "    test: true",
+                        ""
+                    ],
+                    "executable": false
                 }
             },
             "ref": "61829af53d06fed9494d2c15d02633f7382c41f7"
