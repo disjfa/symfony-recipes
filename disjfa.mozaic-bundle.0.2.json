@@ -1,0 +1,19 @@
+{
+    "manifests": {
+        "disjfa/mozaic-bundle": {
+            "manifest": {
+                "bundles": {
+                    "Disjfa\\MozaicBundle\\DisjfaMozaicBundle": [
+                        "all"
+                    ]
+                },
+                "env": {
+                    "#1": "You can request a api key on the developer page of unsplash here: https://unsplash.com/developers",
+                    "DISJFA_MOZAIC_APPLICATION_ID": "",
+                    "DISJFA_MOZAIC_SECRET": ""
+                }
+            },
+            "ref": "a1dea784b51b72a16f93e8a8ca3e516499df8269"
+        }
+    }
+}

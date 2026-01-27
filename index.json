@@ -2,6 +2,9 @@
     "recipes": {
         "disjfa/menu-bundle": [
             "0.5"
+        ],
+        "disjfa/mozaic-bundle": [
+            "0.2"
         ]
     },
     "branch": "main",
